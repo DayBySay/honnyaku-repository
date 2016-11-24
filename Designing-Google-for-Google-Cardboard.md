@@ -1,5 +1,7 @@
 ## Designing for Google Cardboard
 ### 新次元へ
+[A new dimension](https://www.google.com/design/spec-vr/designing-for-google-cardboard/a-new-dimension.html)
+
 VRにおける優れたUX体験の設計は、従来の2次元形式のものとは大きく異なります。
 このベストプラクティスはグーグルカードボードデザインチームが初期に開発したアプリケーションとプロトタイプの評価に基づいています。
 人間の知覚と認知の基本的な側面に基づいており、すべてのプラットフォームでのアプリケーションデザインに役立てることが出来ます。
@@ -19,6 +21,8 @@ VRは新しいメディアであるため、ユーザはVRコンテンツの体�
 
 
 ### 生理学的な考察
+[Physiological considerations](https://www.google.com/design/spec-vr/designing-for-google-cardboard/physiological-considerations.html)
+
 モーションシックネスは、ユーザの期待と実際の感覚との不一致により引き起こされます。
 例えば窓の外を見ていない車の乗客が乗り物酔いになりやすく、運転手が乗り物酔いになりづらいのは車の動きを予測できるからです。
 人間は死を回避するため、有毒なものを食べると吐き気を催すように進化しました。
@@ -78,6 +82,7 @@ VR空間内で移動している巨大なオブジェクトの近くにユーザ
 
 ## インタラクションのパターン
 ### 準備
+[Setup](https://www.google.com/design/spec-vr/interactive-patterns/setup.html)
 VRコンテンツを体験するには時間がかかることがあります。
 ユーザはヘッドセットの調整やHMDにスマホをセットする必要があります。
 
@@ -118,6 +123,7 @@ AndroidにおけるVRアプリはフルスクリーンモードを使用し、�
 * 両眼視の画面を表示したスクリーンショットを追加する
 
 ### コントロール
+[Controls](https://www.google.com/design/spec-vr/interactive-patterns/controls.html)
 UIコントロールはアプリケーションの起動時にユーザの視野に入れる必要があります。
 コントロールを見失った場合、
 
@@ -143,6 +149,8 @@ UIコントロールはアプリケーションの起動時にユーザの視野
 このような状況の場合は、ヒューズボタンではなく直接クリックできるボタンを使いましょう。
 
 ### フィードバック
+[Feedback](https://www.google.com/design/spec-vr/interactive-patterns/feedback.html)
+
 #### オーディオ
 文字でのインストラクションは幾つかの理由からVRには適していません。
 多くの場合、VR環境がユーザに与える情報量は過多になります。
@@ -165,6 +173,7 @@ VRアプリケーションは没入するように設計されており、ユー
 スマホヘッドセットにおいて触覚フィードバックのクオリティは高くないが、体験をより実体的にします。
 
 ### レティクルの表示
+[Display reticle](https://www.google.com/design/spec-vr/interactive-patterns/display-reticle.html)
 ユーザは視点を動かすことで、小さなオブジェクトを正確にターゲティング出来ます。
 しかし、視覚的レティクル（ターゲットの視覚的追跡を支援するもの）を与えることでその操作をより簡単にできます。
 ユーザが詳細なターゲティングを行っているときに、レティクルを表示してください。
