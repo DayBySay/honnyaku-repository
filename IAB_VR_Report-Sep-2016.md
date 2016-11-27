@@ -24,26 +24,19 @@ VR用語、定義、及びIABの新しい広告フォーマットに関するよ
 この概要は、市場で働いてる人達の言葉でVRの状況がどうなっているか示しています。
 我々はこの概要がVR業界の発展に役立つこと願っています。
 
-## Defining Virtual Reality - Practice And Pitfalls
-As we discussed VR with publishers and advertisers, we wanted to make sure that we
-were all speaking the same language. Does everyone think of VR in the same way? Are
-there standard definitions for what constitutes VR? The short answer for both is “no.”
+## VRの定義 - 実践と落とし穴
+VRについてパブリッシャーや広告主と話し合った時、我々は同じ言語で話していることを確認したくなりました。
+誰もが同じようにVRを捉えているか？VRを構成するものの標準的な定義は在るか？両方共ありません。
 
-In its purest form, VR contains stereoscopic video allowing each eye to view a different
-display or video that—when combined with the view from the other eye—creates a
-visual, virtual reality. Spatial audio—where sound has direction and volume relative to
-its source—enhances that virtual experience with 3D sound. The ability to walk around
-this virtual world can help to maximize the immersion effect. And the self-awareness
-provided by one’s own hands and feet in a virtual world can further immerse the
-participant in an alternate reality.
+最も純粋な形式は、VRには立体視ビデオが含まれており、それぞれの目で別のディスプレイ、映像を見ることが出来、視覚的なVRを作り出します。
+空間オーディオ（音源の位置と方向によって音量が変わるもの）は3DサウンドによってVR体験を向上させます。
+VR空間を歩き回る能力は。没入感を最大化させることを助けます。
+また、仮想世界で自分の手と足を認識することは、参加者を更に没入させます。
 
-Perceptions on the core elements of tech, content, and user experience required for basic
-VR remain a moving target. The rapid rate of change in the VR space only complicates
-attempts at definition. Much like programmatic video, there is a spectrum of VR offerings—
-with the fully immersive visual, auditory, and physical experience of VR on one end of the
-spectrum, and 360 video on desktop on the other. Additionally, some believe that dedicated
-headsets are required for true VR, and that makeshift devices that hold a smartphone
-close to your face fall short of providing a truly immersive VR experience.
+基本的なVRに必要な技術、コンテンツ、ユーザーエクスペリエンスの中核要素に関する認識は、動く目標のままです。
+VR空間に於ける急速な変化率は定義を複雑にするだけです。
+プログラマティックビデオと同様に、VRが提供する範囲は完全に没入感のある視覚的、聴覚的、及び物理的体験から、デスクトップ上の360度動画まである。
+更に、真のVRには専用のヘッドセットが必要であり、スマホ型のHMDは没入型VR体験を提供するには不十分だと考えている人も居ます。
 
 ![fig1.png](./img/iabvr/fig1.png)
 
