@@ -61,7 +61,7 @@ spectrum, and 360 video on desktop on the other. Additionally, some believe that
 headsets are required for true VR, and that makeshift devices that hold a smartphone
 close to your face fall short of providing a truly immersive VR experience.
 
-[fig1](./img/iabvr/fig1)
+![fig1.png](./img/iabvr/fig1.png)
 
 So where does this leave 360 video? 360 video can be consumed on any screen, with
 navigation through content guided by a controller like a mouse, or the accelerometer of
@@ -156,7 +156,7 @@ McDonald’s VR activation, a completely custom experience that gave consumers t
 opportunity—wearing the HTC Vive VR goggles—to step into and decorate the inside of a
 virtual Happy Meal box using hand-held controllers.
 
-[fig2](./img/iabvr/fig2)
+![fig2.png](./img/iabvr/fig2.png)
 
 Publishers we spoke with agreed that agencies and advertisers have been very
 interested and active in pursuing VR and 360 video opportunities, often as components
@@ -275,7 +275,7 @@ As DigitasLBi’s Megan McCurry explains: “Once you get someone to engage, tha
 great, but it takes quite a lot at this point to get them to take time to watch the video and
 engage with these experiences.”
 
-[fig3](./img/iabvr/fig3)
+![fig3.png](./img/iabvr/fig3.png)
 
 ### CONSUMER ADOPTION AND SCALE
 Opinions varied in terms of speed of adoption and barriers to growth. Some wondered if
@@ -464,7 +464,7 @@ media space since early 2014. The first half of 2016 alone saw $1.3 billion inve
 including The Huffington Post’s acquisition of VR video production firm RYOT. With the
 entire ecosystem making investments in VR, the likelihood of failure seems much smaller.
 
-[fig4](./img/iabvr/fig4)
+![fig4.png](./img/iabvr/fig4.png)
 
 Other opinions were similar when discussing the high-level viability and potential
 success of VR. Immersv echoed the point that the VR constituency is so much broader
@@ -555,7 +555,7 @@ life. Given Pokémon GO’s tremendous success as a game and pop culture phenome
 it’s safe to say that while the line between AR and VR may be blurry, AR certainly
 deserves its own future study.
 
-[fig5](./img/iabvr/fig5)
+![fig5.png](./img/iabvr/fig5.png)
 
 ## APPENDIX1: Case Studies
 What do VR campaigns look like today? Of course, a 2D report like this can never do
@@ -566,7 +566,7 @@ headset, to get a sense what VR / 360 video ads look like.
 Case Study #1: Dunkin Donuts “What the Fast” #WTFast, 360 video campaign
 (DigitasLBi)
 ddperks.com/wtfast
-[fig6](./img/iabvr/fig6)
+![fig6.png](./img/iabvr/fig6.png)
 
 To promote the world’s fastest “Dunkin Run,” a 360 video of female stunt jumper
 Ellen Brennan (shown above in a wingsuit) was created to immerse viewers in a
@@ -587,7 +587,7 @@ Case Study #2: Fruity Pebbles “Yabba Dabba Doo” 30-second 360 pre-roll
 (MediaVest | Spark, StartApp, VirtualSKY)
 https://youtu.be/cuCGu_UMN5g 
 
-[fig7](./img/iabvr/fig7)
+![fig7.png](./img/iabvr/fig7.png)
 
 Post Cereals’ “Yabba Dabba Doo” campaign starts with a 360 view of kids at the
 breakfast table, and takes the viewer on a 30-second journey to jam with a garage band,
@@ -615,7 +615,7 @@ Case Study #3: Hilton Worldwide “Destination: Inspiration”
 (Opera Mediaworks, OMD)
 https://vimeo.com/162983050 
 
-[fig8](./img/iabvr/fig8)
+![fig8.png](./img/iabvr/fig8.png)
 
 Hilton Hotels and Resorts partnered with Opera Mediaworks on a 360 mobile video
 campaign that takes viewers on a tour of Hilton destination beach resorts, snorkeling
@@ -638,7 +638,7 @@ in the future.”
 Case Study #4: Turner Sports NCAA® March Madness® Live™ VR App
 Sponsored by Capital One
 
-[fig9](./img/iabvr/fig9)
+![fig9.png](./img/iabvr/fig9.png)
 
 Managed by Turner Sports and produced in collaboration with live-event virtual reality
 (VR) platform VOKE through a partnership with CBS, NCAA Corporate Champion Capital
