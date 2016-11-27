@@ -6,35 +6,23 @@
 これらは、友人や同僚たちと、オフィスでGoogle Cardboardを試したり、ハイエンドVRヘッドセットを用いたデモイベントに参加することで何度でも体験できます。
 VRは出版やマーケティング、広告技術などクリエイティブな人々のためにエキサイティングで新しい没入型コンテンツの開発や、ブランドのストーリーテリングの機会を提供します。
 
-For those who have been watching the Virtual Reality space for a while—or experienced
-the rise and fall of 3D Video—it’s natural to feel uncertainty about both where things are
-with VR today, and where they might be heading. As it turns out, though, 2016 has already
-been a historic year: we are now seeing Virtual Reality finally achieving mass scale. With
-the consumer launches of Oculus Rift, HTC Vive, and Samsung Gear, VR experiences are
-expanding beyond the hardcore gaming community and into everyday mobile and desktop
-browsers via 360 video. Market penetration has deepened with the emergence of VR apps
-and games viewed through Google Cardboard, as well as other more advanced headsets.
+暫くの間VR空間を見ている人たち、あるいは3Dビデオの盛衰を経験した人たちが、今日のVRがどこに向かっているのか対して不確実性を感じるのは当然です。
+しかし2016年は既に、VRの規模が大きくなった歴史的な年です。
+Oculus rift, HTC Vive, Samsung GearVR のコンシューマ向けの販売に伴い、VRの体験はハードコアゲームのコミュニティを超え、
+360度動画を介してモバイルやデスクトップブラウザにも拡大されています。
+Google Cardboardや、その他のヘッドセットで遊べるVRアプリやゲームの登場により、市場の参入度は高まっています。
 
-So in this watershed year, it’s been incredibly interesting speaking with the practitioners
-of Virtual Reality—the professionals who are actively creating the VR hardware, software,
-content, and advertising—to explore what they’ve learned thus far and where they see
-things headed. While our conversations with industry experts focused largely on VR,
-Augmented Reality (AR) was also discussed at some length—especially since the July,
-2016 launch of Pokémon GO—which points to the continued evolution of enhanced mobile
-experiences that overlay digital information on top of the physical world.
+この転機の年にVRの実践者（VRハードウェア、ソフトウェア、コンテンツ、及び広告の専門家）と、これまでに学んだことやどこに向かっているのかを話すのはとても興味深かったです。
+専門家との議論は主にVRに充填を置きましたが、ARも議論されました。（特に2016/7のポケモンGO発売以来）
+これは物理的な世界の上にデジタルな情報を重ね合わせる、拡張されたモバイルエクスペリエンスの継続的な進化を指し示しています。
 
-This report offers an overview of observations and opinions on VR from a distinguished
-panel of over two dozen industry-leading voices in publishing, advertising, VR software,
-and developer platforms that IAB conducted from June through August, 2016. The
-findings offer a market snapshot detailing key takeaways, lessons learned, and future
-plans in the emerging field of Virtual Reality.
+このレポートは、IABが2016年6月から8月に実施した、出版、広告、VRソフトエラ及び開発プラットフォームで、業界をリードする20以上の著名なパネルから、VRの考察と意見の概要を説明します。
+この調査結果はVRの新興市場における主要な取り組み、教訓、将来の展望を詳述する市場の概要を提供します。
 
-This document is not intended to serve as a technical guide or complete VR primer; more
-formal documentation on VR terminology, definitions, and emerging ad formats from
-IAB are forthcoming. This overview offers a current snapshot of what the VR landscape
-looks like, in the words of those working in the space. We hope that you find this overview
-of industry expert opinions and observations illuminating and useful, as together we
-process the unfolding implications of Virtual Reality.
+この文書はテクニカルガイドや完璧なVR入門の役割を果たすものではありません。
+VR用語、定義、及びIABの新しい広告フォーマットに関するより正式な文章が近々公開される予定です。
+この概要は、市場で働いてる人達の言葉でVRの状況がどうなっているか示しています。
+我々はこの概要がVR業界の発展に役立つこと願っています。
 
 ## Defining Virtual Reality - Practice And Pitfalls
 As we discussed VR with publishers and advertisers, we wanted to make sure that we
