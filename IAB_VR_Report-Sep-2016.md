@@ -1,14 +1,10 @@
 [原文](http://www.iab.com/wp-content/uploads/2016/09/IAB_VR_Report-Sep-2016.pdf)
 
-## Introduction
-Everyone has their “first time experience with Virtual Reality” story. These first VR
-experiences are often profoundly transforming, providing breakthrough glimpses into
-artificial realities that were previously only present in our imaginations. We see these
-first experience stories play out again and again with friends and colleagues who pick up
-and try Google Cardboard at the office, or who attend events with demos of an ultra-highend
-VR headset. For those in publishing, marketing, ad tech, and creative communities,
-VR opens the door to exciting new opportunities for developing immersive content and
-brand storytelling.
+## はじめに
+誰もが初めてのVR体験を持っています。
+初めてのVR体験は、以前は私達の想像の中にあった人口現実の世界を垣間見ることへのの革新を提供します。
+これらは、友人や同僚たちと、オフィスでGoogle Cardboardを試したり、ハイエンドVRヘッドセットを用いたデモイベントに参加することで何度でも体験できます。
+VRは出版やマーケティング、広告技術などクリエイティブな人々のためにエキサイティングで新しい没入型コンテンツの開発や、ブランドのストーリーテリングの機会を提供します。
 
 For those who have been watching the Virtual Reality space for a while—or experienced
 the rise and fall of 3D Video—it’s natural to feel uncertainty about both where things are
