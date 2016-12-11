@@ -40,603 +40,195 @@ VR空間に於ける急速な変化率は定義を複雑にするだけです。
 
 ![fig1.png](./img/iabvr/fig1.png)
 
-So where does this leave 360 video? 360 video can be consumed on any screen, with
-navigation through content guided by a controller like a mouse, or the accelerometer of
-a mobile device. The screen only has to be visible—whether a few feet away, or strapped
-to one’s face. As Figure 1 illustrates, the quality of user immersion varies across the VR
-platforms, with simpler 360 video falling short of a true VR threshold.
+だから、これは360ビデオをどこに残すのだろうか？ 360ビデオは、マウスのようなコントローラやモバイルデバイスの加速度計によって案内されるコンテンツを介したナビゲーションにより、どの画面でも使用できます。画面はわずか数フィート離れていても目に見えていても、顔に縛られていてもかまいません。図1に示すように、ユーザー浸水の品質はVRプラットフォーム全体で異なり、より単純な360ビデオは真のVRしきい値に満たない。
 
-Ultimately, “immersiveness” is the watchword in VR for both advertisers and
-publishers. Yale Cohen, SVP, Publicis Media expressed it best when he said, “When I
-want to view digital video, I can be in my living room watching it on a screen. VR turns
-that model upside down because you don’t know you’re in your living room. You could
-be anywhere.” Noah Heller, VP, Emerging Technology at Hulu added, “You know it’s VR
-when someone has a visceral reaction.” Whether that immersiveness requires spatial
-audio, the ability to see your own hands in the virtual world, and the freedom to walk
-around unimpeded is up for debate.
+最終的には、「没入感」は、広告主と出版社のVRのキーワードです。 Publicis MediaのSVP Yale Cohen氏は、「私がデジタルビデオを見たいときは、リビングルームで画面で見ることができます。あなたがリビングルームにいるかどうかわからないので、VRはそのモデルを逆さまにします。あなたはどこにいてもかまいません」HuluのEmerging TechnologyのNoah Heller副社長は、「誰かが内臓反応を起こすとVRだと知っています。妨げられないように歩き回る自由が議論の対象となっています。
 
-For Time Inc.’s Chris Hercik, “true VR” is more of an immersive experience that
-enables the user to interact in some way with the content, and choose a path within an
-experience. For him, 360 video or photo experiences are not necessarily VR. “I think
-we need to clearly distinguish the two, because when we’re talking to advertisers or
-partners, we need to clarify which one offers just a point of view and means of looking
-around, and which one is more immersive.” Mia Tramz, also from Time Inc., added
-that in her mind, the future of the medium is fully immersive experiences. “360 VR
-experiences are great on-ramps to VR and for acquainting consumers with the medium,
-but the platforms that offer more immersion and interaction—especially in room scale—
-are undeniably compelling.”
+Time Inc.のChris Hercikにとって、「真のVR」は、ユーザーがコンテンツと何らかの形でやりとりし、経験の中のパスを選択することができる没入型体験のほうがはるかに優れています。彼にとって360度のビデオや写真の経験は必ずしもVRではない。 「私たちは広告主やパートナーと話しているときに、どちらが視点と周りを見回す手段を提供し、どちらがより没入感があるのか​​を明確にする必要があるため、両者をはっきりと区別する必要があると思います」Mia Tramzまた、タイム・インコーポレイテッドからは、メディアの未来は完全に没入型の体験であると付け加えた。 「360度のVR体験は、VRへの大きな進出であり、消費者にそのメディアを知ってもらうためのものですが、特に部屋の中で、より多くの浸漬と相互作用を提供するプラットフォームは、魅力的です。
 
-As with any video striving to reach the consumer through sight, sound, and motion, let’s
-not forget the importance of the content, regardless of format. Aaron Luber of Google
-points out, “Whether it’s mono or stereoscopic video, we’re still trying to answer the
-same questions around how do you tell a story? What did you draw peoples’ attention
-to? And that has nothing to do with whether or not the content was in 3D.”
+視力、音、動きによって消費者に届くように努力しているビデオと同様に、フォーマットに関係なくコンテンツの重要性を忘れないようにしましょう。 GoogleのAaron Luber氏は、「モノラルビデオであろうとステレオスコピックなビデオであろうと、話をどのように伝えているのかと同じ質問にはまだ答えようとしています。あなたは何を人々の注意を引くのですか？そしてそれはコンテンツが3Dであるかどうかとは何の関係もありません。
 
-In the quest to understand publisher’s and advertiser’s definitions of VR, other terms
-and acronyms surfaced including AR (Augmented Reality), MR (Mixed Reality), and IR
-(Interactive Reality), which, despite their own challenging definitions, each provide
-immersion to lesser degrees than VR. You may have even heard of a recent mobile game
-called Pokémon GO that harnesses Augmented Reality and has drawn millions of people
-across the world to chase down imaginary creatures in the real world, using their
-mobile phones.
+出版社と広告主のVRの定義を理解するために、AR（Augmented Reality）、MR（Mixed Reality）、IR（Interactive Reality）などの他の用語や頭字語が浮かび上がっています。 VRよりも大きい。あなたは、現実世界の想像上の生き物を携帯電話で追いかけようと、何百万人もの人々を引き出し、ポケモンGOと呼ばれる最近の携帯ゲームを聞いたことがあるかもしれません。
 
 ## How Are Publishers and Advertisers Creating VR Content?
-Perhaps not surprising is that when we define VR as having multiple levels of
-complexity, the deepest levels of immersion also cost the most to produce, while the
-simpler and less complex activations—like 360 video—bring the lowest relative creation
-costs. This cost disparity has also led to a disparity in VR audience scale, with 360/
-spherical video (available on YouTube and Facebook) at one end having the greatest
-audience scale, while stereoscopic, 3D audio, head-mounted display experiences still
-face significant challenges of scale.
 
-When The New York Times launched its NYT VR app in November, 2015 with launch
-sponsors GE and Mini, it became the most successful app launch in NYT history. Since
-then, advertisers have included Cadillac, Ford, Lufthansa, Hilton, and TAG Heuer.
-According to The Times’s VP of Ad Innovation, Nick Van Amburg, “We reached one
-million users at launch, driven in part by distribution of a million Google Cardboard
-viewers to Sunday home delivery subscribers, and we also sent Cardboard to more than
-300,000 of our digital subscribers. The app has had more than 950,000 downloads.” Van
-Amburg says they’re now seeing users spend on average over six and a half minutes
-in the NYT VR app, with 58 percent of users coming back month over month. When you
-include YouTube and Facebook 360, there’s significant distribution building for The
-Times’s 360 video assets as well. “We’re now talking about engaging millions of people,
-which means this is not a flash in the pan—it’s something people want more of.”
+おそらく驚くべきことではありませんが、複数のレベルの複雑さを持つVRを定義すると、最も深いレベルの浸水も生産に最も費用がかかりますが、360度のビデオなどの単純で複雑なアクティベーションは、このコスト差はまた、視聴者の規模が最も大きい360 /球形のビデオ（YouTubeとFacebookで利用可能）を使用してVR視聴率の格差を招く一方で、3Dオーディオ、ヘッドマウントディスプレイの体験は依然として大きな課題に直面しています規模の
 
-Hulu is working with Live Nation to create VR experiences that are more than just a 360
-camera on a stick. These videos reveal the artist’s creative process, the dressing room,
-the onstage experience, audience reactions, and the show’s aftermath.
+New York Timesが2015年11月にGEとMiniのスポンサーをスポンサーとしてNYT VRアプリを立ち上げたとき、NYTの歴史において最も成功したアプリの発売となりました。それ以来、広告主にはキャデラック、フォード、ルフトハンザ、ヒルトン、タグ・ホイヤーが含まれています。 The TimesのAd Innovation担当副社長、Nick Van Amburg氏によると、「私たちは、百万人のGoogle Cardboard視聴者を日曜日の宅配者に配信することで、100万人のユーザーに達しました。また、Cardboardには、デジタル加入者。アプリには95万回以上のダウンロードがあった」Van Amburg氏によると、NYT VRアプリで平均6時間半を費やしているユーザーが増えている。 YouTubeとFacebook 360を含めると、The Timesの360の動画アセットの配信ビルディングが大幅に増えています。 「私たちは現在、何百万人もの人々の関わりを語っています。つまり、人々がもっと欲しいものです。
 
-As VR grows and creators, publishers, and advertisers work to engage consumers in
-relevant and meaningful ways, timing and recency become factors, just like in any form
-of video. While a large portion of content for VR is pre-recorded, Fox Sports focuses
-heavily on live content, working closely with NextVR to create live VR sports experiences.
-More recently, Fox Sports has added interactivity to take the experience to a level beyond
-360 video. In an integration with the Daytona 500, Toyota’s VR activation with Fox Sports
-became a great complement to the rest of its campaign.
+HuluはLive Nationと協力して、スティック上の360カメラ以上のVR体験を作成しています。これらのビデオは、アーティストのクリエイティブなプロセス、ドレッシングルーム、ステージ上の体験、観客の反応、ショーの余波を明らかにする。
 
-Turner Sports, through its partnership with Facebook’s Oculus VR platform, also has
-begun live streaming its sports events—including NCAA basketball March Madness
-games—via an app made available to users of Samsung’s Gear VR headset. “What better
-way to give people access than to than to put them in the live game itself,” says Turner
-Sport’s Mark Johnson.
+VRが成長し、クリエイター、出版社、広告主様が消費者を関連性のある有意義な方法で取り組むようになると、タイミングや最新性はあらゆる形式の動画と同様に要因になります。 VRのコンテンツの大半は事前録画されていますが、Fox Sportsはライブコンテンツに重点を置いて、NextVRと緊密に連携してライブVRスポーツ体験を作成します。最近では、Fox Sportsはインタラクティブ機能を追加して、360ビデオを超えるレベルまで体験しています。デイトナ500との統合で、トヨタのフォックススポーツによるVRのアクティブ化は、キャンペーンの残りの部分を補完するものとなりました。
 
-The advertising content found in VR today ranges from rich, custom app-based
-experiences that immerse the viewer in a piece of branded entertainment—such as
-an exploration of a travel destination, or a deep dive demonstration of an automobile
-interior—to simpler 360 video executions that follow existing digital video conventions,
-including pre, mid, or post-roll videos presented within a larger VR video experience. 
+ターナースポーツは、FacebookのOculus VRプラットフォームとの提携を通じて、NCAAバスケットボールMarch Madnessゲームなどのスポーツイベントを、SamsungのGear VRヘッドセットのユーザーが利用できるようにしてライブストリーミングを開始しました。 「生きているゲームそのものにアクセスするよりも、人々にアクセスするより良い方法は何か」とターナースポーツのマーク・ジョンソンは言う。
 
-There are also examples of deeply immersive event-based VR activations. At the 2016
-South by Southwest (SXSW) conference, a number of brands were engaging in VR.
-Groove Jones, a creative studio focused on Virtual Reality content and apps, created the
-McDonald’s VR activation, a completely custom experience that gave consumers the
-opportunity—wearing the HTC Vive VR goggles—to step into and decorate the inside of a
-virtual Happy Meal box using hand-held controllers.
+VRで見られる広告コンテンツは、豊富なカスタムアプリベースの体験から、旅行先の探索や自動車内装の深いダイビングのデモンストレーションなど、ブランドのエンターテイメントの一部に視聴者を浸る360以上のビデオより大きなVRビデオ体験の中で提示されたプレ、ミドル、またはポストロールビデオを含む、既存のデジタルビデオコンベンションに続く実行。
+
+深く没入型のイベントベースのVR起動の例もあります。 2016 South by Southwest（SXSW）カンファレンスでは、数多くのブランドがVRに取り組んでいました。バーチャルリアリティのコンテンツとアプリケーションに焦点を当てた創造的なスタジオであるGroove Jonesは、HTC Vive VRゴーグルを着用して、バーチャルハッピーミールボックスの中に足を踏み入れて、消費者にチャンスを与える完全なカスタム体験であるMcDonaldのVRアクティベーションハンドヘルドコントローラを使用します。
 
 ![fig2.png](./img/iabvr/fig2.png)
 
-Publishers we spoke with agreed that agencies and advertisers have been very
-interested and active in pursuing VR and 360 video opportunities, often as components
-of larger digital campaigns. The challenge for sellers is simultaneously qualifying and
-educating buyers on what’s actually possible—while it’s being invented. 
+私たちが話した出版社は、代理店や広告主がVRや360のビデオチャンスを大規模なデジタルキャンペーンのコンポーネントとして頻繁に関心を持って積極的に取り組んでいることに同意しました。 売り手の挑戦は、実際に可能なことを購入者に認定し、同時にそれを発明している間に教育することです。
 
-VR has created a new way for publishers and advertisers to work together creatively.
-Instead of delivering traditional video content to the publisher, agency creatives are
-increasingly asking publishers for ideas and creative executions. This in turn pushes
-more publisher branded content teams into VR, either partnering with VR production
-studios, or building dedicated in-house teams. The more complex the idea, the more
-tailored the solution. 
+VRは、出版社と広告主が創造的に協力する新しい方法を生み出しました。 代理店のクリエイティブは、従来の動画コンテンツをサイト運営者に配信するのではなく、サイト運営者にアイデアや創造的な実行を求めています。 これにより、パブリッシャーブランドのコンテンツチームがVR制作スタジオと提携するか、専用の社内チームを構築してVRに変換されます。 アイデアが複雑になればなるほど、解決策がさらに調整されます。
 
 ## What are VR's Streangth and Opportunities?
 ### IMMERSIVE STORYTELLING
-When we spoke to publishers and advertisers about the opportunity and promise of VR,
-invariably our experts used terms such as “immersion,” “presence,” and “empathy” to
-highlight the difference in storytelling capabilities that VR brings. For DigitasLBi’s Megan
-McCurry, the medium’s strength comes from its immersive properties and the opportunity
-for advertisers to focus the consumer’s attention in an entirely new way. “We all know how
-    hard it is to capture someone’s attention and do it well with traditional media forms. VR
-    offers a novel way to engage with people on a much more immersive basis.” 
 
-Marketers know—perhaps better than anyone—how distracted consumers are as
-they’re looking at multiple devices throughout the day. So how does one cut through the
-clutter and gain some advantage? One of the most important things VR has going for
-it is that it really does create focus. Viewers are totally immersed in the experience—
-whether it’s through a mobile device viewed through cardboard or a more advanced
-headset, people are totally focused on the message. For sports and entertainment
-firms like Live Nation, Fox Entertainment, and Turner Sports, capturing and streaming
-live events in VR represents a compelling new way to develop audiences remotely, by
-offering VR consumers the best seats in the house. With VR, the content publisher can
-bring the fan closer to an artist than they ever could be in real life.
+出版社や広告主にVRの機会と約束について話していた時、必ず専門家はVRがもたらすストーリーテリング機能の違いを強調する「浸漬」、「存在感」、「共感」などの用語を使用しました。 DigitasLBiのMegan McCurryにとって、媒体の強みは、その没入型の特性と、広告主がまったく新しい形で消費者の注目を集める機会から来ている。 「誰かの注目を集め、伝統的なメディア形式でうまくやっていくことがどれほど難しいかはわかっています。 VRは、より没入型の基礎で人々と交流するための斬新な方法を提供しています。
 
-Time Inc.’s Chris Hercik sees VR changing the way they build content across the entire
-portfolio of Time Inc. titles, from People to LIFE magazine. “We talk about storytelling
-and bringing a viewer into an experience. VR is the most powerful way to put a user into
-the story. Whether it’s practicing mindfulness in a bioluminescent forest, experiencing
-a long-form documentary, floating in outer space, driving a car 200 miles an hour, or
-experiencing an immersive VR fashion and music video. There is nothing as immersive
-as this. I think it’s going to prove to be a very powerful tool.”
+マーケティング担当者は、誰よりも優れていることは分かっていますが、1日中複数のデバイスを見ているときに気を散らしていた消費者はどうですかだから、どのように1つは、混乱をカットし、いくつかの利点を得るのですか？ VRが進めている最も重要なことの1つは、それが本当にフォーカスを作り出すということです。視聴者は完全にその経験に没頭しています。それは、ボール紙やより高度なヘッドセットで見たモバイルデバイスであっても、人々はメッセージに集中しています。ライブナイト、フォックスエンターテイメント、ターナースポーツのようなスポーツやエンターテイメント企業にとって、VRでのライブイベントのキャプチャとストリーミングは、VRコンシューマーに最適な座席を提供することで、視聴者を遠隔地に展開する魅力的な新しい方法です。 VRを使用することで、コンテンツの出版社は、現実のものよりもファンをアーティストに近づけることができます。
+
+Time Inc.のChris Hercikは、PeopleからLIFEの雑誌に至るまでTime Inc.のタイトルの全ポートフォリオにコンテンツを構築する方法をVRが変えると見ています。 「私たちは、ストーリーテリングと視聴者を体験に導くことについて話します。 VRはユーザーを物語にする最も強力な方法です。バイオルミネセンスの森林での心の練習、ロングフォームのドキュメンタリー体験、宇宙空間での浮遊、1時間あたり200マイルの車の運転、または没入型のVRファッションやミュージックビデオの体験などです。これほど没入感はありません。私はそれが非常に強力なツールであることを証明するだろうと思う」
 
 ### SHOPPING AND PRODUCT DEMOS 
-In terms of monetization opportunities, many among our expert panel mentioned the
-impact they expect VR will bring to the worlds of shopping, real estate, and product
-demos. Citing a recent Fast Company article and earlier Journal of Consumer
-Research study, one expert mentioned that consumers who go into a store and
-touch an item may be willing to pay more for the item than those who didn’t touch
-it, and that this also holds true for those who were asked to simply imagine they’d
-touched the product. The study’s findings are interesting to consider in the context
-of VR’s ability to create brand impressions through immersion. With Virtual Reality,
-consumers not only imagine, but actually have the experience of touching and
-checking out merchandise, which may impact their purchase intent and potentially
-their overall affinity for a brand.
+収益化の機会については、弊社の専門家パネルの多くが、VRがショッピング、不動産、および製品デモの世界にもたらす影響を述べました。 最近のファーストカンパニーの記事と以前の消費者調査のジャーナルを引用して、ある専門家は、店に入り、商品に触れる消費者は、それに触れていない消費者よりも商品に多くの料金を払う可能性があると述べ、 彼らが製品に触れたと単純に想像するように頼まれた人々にも当てはまります。 調査の結果は、浸水を通じてブランドの印象を創出するVRの能力の中で考慮すべき興味深いものです。 バーチャルリアリティでは、消費者は想像するだけでなく、実際に商品に触れたりチェックしたりする経験があり、購入意思やブランドとの親和性に影響を与える可能性があります。
 
 ### ABILITY TO STIR EMOTIONS
-A number of the experts we surveyed spoke about the power of VR to stir emotions
-and create empathy among viewers in an entirely new way, particularly with VR
-stories that place the viewer in the center of a situation that they might not otherwise
-experience. Being at the top of Mount Everest, or experiencing war as it happens, or
-being transported to the middle of a natural disaster are all experiences that bring deep
-emotions to the surface, something that publishers and journalists have always sought
-to arouse in their audiences.
+私たちが調査した多くの専門家は、感情を刺激し、まったく新しいやり方で視聴者の共感を呼び起こすVRの力について話しました。エベレスト山の頂上にいる、または起こったときに戦争を経験する、または自然災害の真っ只中に運ばれることは、出版社やジャーナリストが常に聴衆に喚起しようとしている深い感情を表面にもたらすすべての経験です。
 
-One expert described the emotion-grabbing aspect of VR, as they remembered watching
-The New York Times’ award-winning VR documentary “The Displaced,” about a group of
-children who lost their homes and families to war. “As I was watching, I heard a plane
-overhead and it became louder, and I saw food drops happening. And you could see, as
-the food fell to the ground, people came running out to grab it. This was one of the most
-powerful things because it brings all your senses to life. I think VR is one of the most
-potent empathy engines. When you’re actually feeling like you’re there, you gain a whole
-new level of empathy for a subject.”
+ある専門家は、戦争のために家庭や家族を失った子供たちのグループについて、ニューヨークタイムズの賞を受賞したVRドキュメンタリー「The Displaced」を見ているのを覚えていたので、VRの感情を捉える側面を説明しました。 「私が見ているうちに、飛行機のオーバーヘッドが聞こえて、音量が上がり、食べ物の落ちが起こっていました。そして、食べ物が地面に落ちると、人々はそれをつかむために尽きるのを見た。これはすべてのあなたの感覚を生かすため、これは最も強力なものの1つでした。私は、VRは最も強力な共感エンジンの1つだと思います。あなたが実際にそこにいるように感じているとき、あなたは、被験者にとってまったく新しいレベルの共感を得ます。
 
-While VR today is for the most part a solitary media experience, there are applications
-for promotional and out-of-home events that gather people together to experience VR
-content. Marley Kaplan, Head of Innovation at Kinetic, explains: “The same way people
-engage while watching sporting events at bars or dive into adventures through movie
-screens or theaters, Virtual Reality provides a realm of new experiences that people
-ultimately bond over together. Essentially, VR has the power to connect the one-toone
-experience with the one-to-many. When a VR activation is presented in a space for
-shared experiences—like amusement parks or industry events like South by Southwest—
-brands can connect with audiences on an emotional level for a more engaging
-experience than ever before.”
+VRは今日では唯一の唯一のメディア体験ですが、VRコンテンツを体験するために人々を集めるプロモーションやアウト・オブ・ホームイベントのアプリケーションがあります。 「バーでスポーツイベントを見たり、映画館や劇場で冒険に出くわしたりするのと同じように、バーチャルリアリティは人々が最終的に一緒に結びつく新しい経験の領域を提供します」とKineticの革新責任者、Marley Kaplanは説明します。本質的に、VRはone-to-one体験とone-to-manyを結ぶ力を持っています。アミューズメントパークやサウス・バイ・サウスウエストのような業界イベントのような共有体験の場でVRの活性化が提示されると、これまで以上に魅力的な体験をするために感情的なレベルで視聴者とつながることができます。
 
 ### CONTENT PRODUCTION: THINKING OUTSIDE THE FRAME
-VR enables the viewer to control what they see as they move their head or their virtual
-bodies (avatars) through space, essentially turning the viewer into the storyteller. For
-many of the experts we spoke with, understanding this fundamental shift in control is
-crucial for successfully leveraging the platform. This paradigm shift is having a profound
-impact on the production of VR content and advertising.
+VRを使用すると、視聴者は、視聴者を本質的にストーリーテラーに変えることで、頭や仮想のボディ（アバター）を宇宙に動かすときに見えるものを制御できます。私たちが話した多くの専門家にとって、この基本的な制御の変化を理解することは、プラットフォームをうまく活用する上で不可欠です。このパラダイムシフトは、VRコンテンツと広告の制作に大きな影響を与えています。
 
-When one produces traditional video or a commercial, the process is pretty
-straightforward. There’s a camera, actors, and a director, and that’s about it. But in VR,
-multi-lensed cameras are pointed everywhere. Producers need to think about all the
-various ways that someone might engage in the experience and try and figure out, in
-advance, potential storylines from multiple end-user perspectives. VR directors need to
-consider all the different people on a set, the actors, and the production staff who now—
-because the camera sees everything—may also be in the shot. Future VR directors may
-need to think less about how to control the viewer’s experience, and more about how
-to highlight viewing options with multiple camera angles and on-screen cues that help
-guide viewers through their own self-directed storyline.
+伝統的なビデオやコマーシャルを制作する場合、そのプロセスはかなり簡単です。カメラ、俳優、監督があります。それはそれです。しかし、VRでは、マルチレンズカメラがあらゆるところで指摘されています。プロデューサは、誰かが経験に従事し、潜在的なストーリーラインを複数のエンドユーザの視点から事前に把握しようとするさまざまな方法について考える必要があります。 VRのディレクターは、セット内のすべての異なる人物、俳優、そして今カメラのすべてを見ている生産スタッフを考慮しなければなりません。将来のVRディレクターは、視聴者の経験を制御する方法や、複数のカメラアングルと画面上の手がかりを使用して視聴オプションを強調する方法について考える必要があるかもしれません。
 
-VR may also put greater demands on video editors and game developers, whose jobs
-will require an understanding of what audiences need in terms of visual or auditory
-cues, and giving it to them before they have to search for it. The ability to edit VR video
-in a way that anticipates and subtly leads users through their self-directed experience—
-while also providing a coherent narrative—will require new models for thinking about
-    audience perspective and engagement with content.
+VRはビデオエディタやゲーム開発者にも大きな需要をもたらします。その仕事には、ビジュアルや聴覚の手がかりの観点から観客が必要とするものを理解し、検索する前にそれを与える必要があります。 VRビデオを編集して、ユーザーが自発的な体験を通じて予期して微妙に誘導する一方で、一貫した物語を提供する機能は、視聴者の視点やコンテンツとの関わりを考えるための新しいモデルを必要とします。
 
 ## VR Weakness and Threats
-As of this writing, VR is still a niche offering, though a growing one with tremendous
-potential. While VR technology is improving and hardware is becoming cheaper and
-easier to access, our experts expressed genuine concerns, especially with the current
-rate of adoption, and the challenges that a lack of audience scale brings to monetization.
-As DigitasLBi’s Megan McCurry explains: “Once you get someone to engage, that’s
-great, but it takes quite a lot at this point to get them to take time to watch the video and
-engage with these experiences.”
+は依然としてニッチなものですが、大きな可能性を秘めたものは増え続けています。 VR技術は向上しており、ハードウェアのアクセスはより安価で簡単になっていますが、専門家の専門家は、特に現在の採用率と、視聴者層の不足が収益化にもたらす課題について真の懸念を表明しました。 DigitasLBiのMegan McCurry氏は次のように説明しています。「参加する人がいたら、それは素晴らしいことですが、ビデオを見てこのような経験に従うためには、時間がかかります。
 
 ![fig3.png](./img/iabvr/fig3.png)
 
 ### CONSUMER ADOPTION AND SCALE
-Opinions varied in terms of speed of adoption and barriers to growth. Some wondered if
-VR can catch up to the numbers that industry analysts have anticipated for VR. Deloitte
-Global, for instance, has predicted that 2016 will be the first billion dollar year for VR, 
-with $700 million in hardware sales and the remainder coming from content. In terms of
-headsets, Deloitte Global estimates that 2.5 million VR headsets and 10 million copies of
-VR games will be sold in 2016.
+意見は採用のスピードと成長の障壁の点で異なっていた。 VRが、業界アナリストがVRのために予想していた数字に追いつくことができるかどうか疑問に思う人もいます。 例えば、Deloitte Globalは、2016年がVRの最初の10億ドル、ハードウェアの売上は7億ドル、残りはコンテンツから来ると予測しています。 Deloitte Globalは、ヘッドセットに関しては、2016年に250万本のVRヘッドセットと1,000万本のVRゲームが販売されると予測しています。
 
-The key issues at this point are making sure that the technology is broadly distributed—
-beyond the gaming community—and that the pipeline for content is fast-flowing.
+現時点での重要な問題は、テクノロジがゲームコミュニティを超えて広く配布されていることと、コンテンツのパイプラインが高速に流れることです。
 
-For National Geographic’s Jim Kelleher, a concern is the pace of adoption of higherend
-systems to move the market beyond lower-end 360 video experiences, otherwise
-“the immersive experience could remain a niche, heavy gamer experience in the
-near term.” 
+ナショナルジオグラフィックのJim Kelleherにとって、ローエンドの360のビデオ体験を超えて市場を動かすための高度なシステムの採用が懸念されています。そうでなければ「臨場感あふれる経験は短期間でのニッチで重いゲーマー体験に残ります。
 
 ### HIGH COST
-The high cost of VR represents another threat to growth. Currently, the target market
-for PC-based high-end systems—like Oculus Rift and HTC Vive—is the hardcore
-gamer that’s willing to spend over a thousand dollars to experience fully-immersive
-VR. The question many of our experts raised around costs is whether smartphonebased
-VR can evolve to become more competitive with PC-based experiences
-that require much more powerful hardware, software, and a faster internet
-connection. For Immersv CEO Mihir Shah, there is an opportunity through lowercost
-smartphone-based experiences to grow the audience for VR far beyond the
-gamer community. “We expect the VR experience on smartphones to become a core
-function, not just… ‘OK, it works with the headsets’.” 
+VRの高いコストは、成長のもう一つの脅威になります。 現在、Oculus RiftやHTC ViveなどのPCベースのハイエンドシステムのターゲット市場は、完全に没入型のVRを体験するために1,000ドル以上を費やすハードコアゲーマーです。 当社の専門家の多くは、スマートフォンベースのVRが、より強力なハードウェア、ソフトウェア、およびより高速なインターネット接続を必要とするPCベースの経験と競争力を増すことができるかどうかについて、 Immersv CEOのMihir Shahにとって、ゲーマーコミュニティをはるかに超えたVRの視聴者を成長させるために、より低コストのスマートフォンベースの体験を通して機会があります。 「スマートフォンでのVR体験は、ヘッドセットと連携するだけでなく、コア機能になると期待しています」
 
 ### FIRST IMPRESSIONS ARE CRITICAL
-Given the extraordinary level of hype surrounding VR, consumers understandably come to
-VR expecting to be “wowed.” And while it’s possible they will be dazzled by the experience,
-there’s an equal chance for them to have an underwhelming, or worse, nauseating
-experience. Negative first impressions could confirm any existing skepticism. Consumers
-who have negative experiences now—at this early stage of the medium—may walk away
-from VR, potentially for years.
+VRを取り巻く過度の誇大宣伝のレベルを考えると、消費者は明らかにVRに「うわべい」と期待しています。そして、可能な限り、彼らはその経験に驚かされますが、圧倒的な、または悪い、否定的な第一印象は、既存の懐疑心を確認することができた。中期的に悪い経験をした消費者は、潜在的に何年もVRから離れることがあります。
 
-The nausea problem is itself an indication of how early-stage we are in in terms of the
-maturity of VR hardware and software. What causes nausea for some users of VR? If your
-visual sense perceives that you are in motion, but your ears and other sensory systems
-perceive that you are stationary, this creates a conflict, a cognitive disconnect that can
-result in a feeling of motion sickness. This problem appears to be less of an issue with
-higher performance systems that can render VR video at a higher frame rate. According
-to one expert, “When you have good hardware and software, that helps, but it also
-depends on the storytelling. Content developers also need to be mindful of what to avoid
-experience-wise, to reduce the chance of nausea.”
+悪心の問題は、VRハードウェアとソフトウェアの成熟度の観点から、それがどのくらい早い段階にあるかを示すものです。 VRの一部のユーザーにとって悪心の原因は何ですか？あなたの視覚があなたが動いていると認識しても、耳や他の感覚システムがあなたが静止していると知覚すると、これは葛藤、つまり動きの病気を感じる可能性のある認知の断絶を引き起こします。この問題は、より高いフレームレートでVRビデオをレンダリングできる高性能システムではあまり問題にはならないようです。ある専門家によると、「優れたハードウェアとソフトウェアがあれば、それは役に立ちますが、ストーリーテリングにも依存します。コンテンツ開発者は、悪心の可能性を減らすために、経験則的に避けるべきことに注意する必要もあります。
 
-When considering the current technical issues and challenges surrounding VR, one would
-have to include things like resolution quality, clarity of images, and depending on the
-hardware, issues like latency, frame rates, and how quickly one’s movements track to the
-real-time progression of what’s being experienced in the headset. If that doesn’t track
-closely, motion sickness can enter in.
+現在の技術的な問題やVRを取り巻く課題を考慮すると、解像度の品質、画像の明瞭度、ハードウェアに応じて、レイテンシ、フレームレート、動きの速さなどをリアルタイムプログレッションに追従させる必要がありますヘッドセットで何が経験されているのか。それが厳密に追跡されなければ、動きの病気が入る可能性があります。
 
 ## How is Success Measured in VR Activations?
-We asked publishers and advertisers to share how success is being measured within their
-own—and their client’s—VR publishing efforts.
+私たちは、パブリッシャーと広告主に、自分自身とクライアントのVR出版の努力の成功をどのように評価しているかを伝えました。
 
 ### PUBLISHER KPIs
-For some publishers, given the early stage of development in the medium, the current
-focus is on learning over success through monetization. In terms of key publisher
-metrics, 3D software development firm Unity offers its VR content creators an analytics
-solution that enables them to check the retention of users, how many people engaged
-with the content, and how many installs they’ve driven for other publishers. According
-to Unity’s Agatha Bochenek, they’re also integrating flexible event tracking into an ad
-metrics dashboard that will allow publishers to create custom events and segments in
-order to optimize content—and in the future, ads—within the system.
+媒体の開発の初期段階を考えると、現在の焦点は収益化を通じて成功を学ぶことにあります。 3Dソフトウェア開発会社ユニティは、パブリッシャーの重要なメトリクスの観点から、VRコンテンツクリエーターに、ユーザーの保持、コンテンツに関わる人数、他のパブリッシャー向けのインストール数をチェックできる分析ソリューションを提供しています。 UnityのAgatha Bochenek氏によれば、柔軟なイベントトラッキングを広告メトリクスダッシュボードに統合しているため、サイト内のコンテンツ（将来は広告）を最適化するためにカスタムイベントやセグメントを作成することもできます。
 
-VR analytics firm Retinad—which offers heat map-based analytics—sees the majority of
-their publisher clients requesting insights into “where people are looking in 360 videos and
-content, the main points of interest, how long people stay there.” They’re also looking to
-better understand the in-app user experience, and what gives people motion sickness in a
-particular experience or video sequence. “At this point it’s more about understanding the
-user,” said Retinad CEO Sam Poirier. 
+VRの分析会社Retinadはヒートマップベースの分析機能を提供しているため、大部分のパブリッシャークライアントが「360のビデオとコンテンツ、主な関心事、人々の滞在期間」を洞察するよう求めています。また、アプリ内のユーザーエクスペリエンスをよりよく理解し、特定のエクスペリエンスやビデオシーケンスで動きの病気を与えるものもあります。 「現時点では、ユーザーの理解が深まっています」と、Retinad CEO Sam Poirierは述べています。
 
 ### ADVERTISER KPIS
-In terms of VR ad metrics, AOL’s Quinn Borsuk highlighted the still-nascent state of VR
-creative and campaign measurement: “This is something we need to develop. There are
-no standards yet. Will we be looking at completion rates? Or getting to a place where
-we are talking about attention and understanding where folks are spending their time
-looking? We need to understand what immersion metrics will look like.”
+VR広告メトリクスに関して、AOLのQuinn Borsuk氏は、VR創造とキャンペーンの測定の未だ初期段階を強調しました。「これは私たちが開発する必要があるものです。まだ基準はありません。完了率を見ていますか？または、人々が自分の時間を過ごすために費やしている注意と理解について話している場所に行くのですか？浸漬メトリックがどのように見えるかを理解する必要があります。
 
-VR ad tech provider Immersv calculates effective CPM and effective CPA (cost per
-action or download) for their client campaigns. For them, a cost-per-view standard
-seems reasonable. As Immersv CEO Mihir Shah said, “We’re able to track a wide
-range of events that enable clients to do their own engagement calculations. At
-the end of the day, it’s all based on a video view. We’re seeing an 81% gaze-through
-rate (GTR) on our campaigns, which means the user gazed all the way through the
-video. And network-wide we’re seeing a 35 percent conversion rate, which is orders
-of magnitude higher than web and mobile, and speaks to the engagement power of
-VR. Of course these are very early adopters.” A future issue raised by Immersv and
-others is—since VR view-throughs can be tracked at the quartile level—how granular
-engagement metrics should become, and whether standardized heat map gaze
-tracking will come into play.
+VRアドテック・プロバイダーImmersvは、クライアントキャンペーンの実効CPMと実効CPA（アクションまたはダウンロードの単価）を計算します。彼らのためには、視聴単価の基準は妥当と思われます。 ImmersvのCEO、Mihir Shah氏は次のように述べています。「クライアントが独自のエンゲージメント計算を行うための幅広いイベントを追跡できます。終わりには、すべてビデオビューに基づいています。キャンペーンで81％のGaze Through率（GTR）が発生していることがわかりました。これはユーザーが動画を見ていることを意味します。また、ネットワーク全体では、ウェブとモバイルよりも数桁高い35％のコンバージョン率があり、VRのエンゲージメントパワーに言及しています。当然のことながら、これらは非常に早い時期に採用されています。」Immersvなどが提起した今後の課題は、VRビュースルーを四分位レベルで追跡できるため、 。
 
-StartApp’s Director of VR, Ariel Shimoni describes the process of developing a
-heat map that illustrates user engagement within an ad: “We take the 360 scene,
-and slice it into six parts, front, back, right, left, top, and bottom. We measure the
-user’s gaze in each in of these sectors so that when we speak to the brand, we can
-tell them if their message is being seen and for how long. These new metrics are
-shedding light on user behavior and brand engagement for our advertisers. With
-the progression of the technology, these insights will mature and bring unmatched
-value and measuring capabilities.”
+StartAppのVR担当ディレクター、Ariel Shimoni氏は、360度のシーンを前面、背面、右、左、上、下の6つの部分に分割して広告内のユーザー関与を示すヒートマップを作成するプロセスについて説明します。私たちは、ブランドに話すときに、彼らのメッセージが見られているかどうか、そしてどれくらいの長さの間にいるかを伝えることができるように、これらのセクターのそれぞれのユーザーの視線を測定します。これらの新しい指標は、広告主様のユーザー行動やブランド関与を明らかにしています。技術の進歩に伴い、これらの洞察は成熟し、比類のない価値と測定能力をもたらします。
 
 ### VR STANDARDS: TOO SOON? OR NOT SOON ENOUGH?
-A number of those we interviewed mentioned the current lack of industry guidelines
-for measurement, and the desire for IAB to get involved. “There’s a big learning curve
-in VR, so it would be great if there were help for advertisers to be more informed, with
-guidelines, and then eventually technology to be able to traffic ads, which we can’t do, it’s
-just a very manual process now” said Kelly Alfieri, Executive Director, Special Editorial
-Projects at The New York Times.
+私がインタビューした人の多くは、現在の測定のための業界ガイドラインの欠如と、IABが関与するという欲求について言及しました。 「VRには大きな学習曲線があります。広告主に情報を伝え、ガイドラインを適用し、最終的には広告を掲載する技術があればうれしいでしょう。ニューヨーク・タイムズの特別編集プロジェクト担当エグゼクティブ・ディレクター、ケリー・アルフィエリ氏は語りました。
 
-While some felt that guidelines would help bring some commonality to the VR and
-360 asset creation process, others expressed concerns that it may still be too early
-for standards. “Our clients are just trying to wrap their heads around how VR works.
-Everyone’s still playing around in the sandbox and experimenting,” said Andrew Scharkss
-of Opera Mediaworks.
+あるガイドラインはガイドラインがVRと360の資産創造プロセスに共通点をもたらすのに役立つと感じていたが、他の人々は、それがまだ標準化には早すぎるかもしれないという懸念を表明した。 「私たちのクライアントは、VRがどのように動作するかを頭で表現しようとしています。誰もがまだサンドボックスで遊んで実験しています」とOpera MediaworksのAndrew Scharkssは述べています。
 
-IAB has heard from its members active in VR that this new immersive format cannot
-be ignored, and the IAB Tech Lab has initiated work to develop guidelines for VR and
-AR. The Tech Lab is in the process of drawing up initial guidelines for 360 video and
-photo formats—as well as more immersive VR and AR ads—with the goal of helping
-publishers and advertisers understand the VR formats that are beginning to see
-traction. While IAB recognizes things are changing quickly in the VR space, the hope
-is that these preliminary guidelines will help buyers and sellers currently grappling
-with formats, creative assets, and specs. IAB will soon make our emerging ad formats
-portfolio available for public comment. Readers wishing to review and comment
-on the initial guidelines (www.iab.com/newadportfolio) should send an email to:
-newadportfolio@iab.com.
+IABは、この新しい没入型フォーマットを無視できないことをVRメンバーのメンバーから聞いたことがあり、IAB Tech LabはVRとARのガイドラインを作成する作業を開始しました。 Tech Labは、出版社や広告主が牽引力を見せ始めているVRフォーマットを理解するのを支援する目的で、360のビデオと写真フォーマット、さらに没入型のVRとAR広告の初期ガイドラインを作成しています。 VR空間では物事が急速に変化することをIABが認識していますが、これらの暫定ガイドラインは現在、フォーマット、クリエイティブアセット、スペックを取り組んでいるバイヤーやセラーに役立つはずです。間もなくIABは、新しい広告フォーマットのポートフォリオを一般市民のコメントに利用できるようにする予定です。最初のガイドライン（www.iab.com/newadportfolio）を見直してコメントしたい読者は、newadportfolio@iab.comに電子メールを送るべきです。
 
-Hulu’s Noah Heller believes that VR would benefit from guidelines that address VR
-camera movement and storytelling best practices, so as to minimize the likelihood of
-viewer discomfort or nausea. The benefit of such guidelines could be realized by both
-advertisers and content creators building VR video, especially where the user has
-less control of the navigation and spatial orientation. These, too, are guidelines that
-IAB may be able to work with members to develop.
+HuluのNoah Heller氏は、VRカメラの動きやストーリーテリングのベストプラクティスに対処するガイドラインから、視聴者の不快感や吐き気の可能性を最小限に抑えるため、VRには効果があると考えています。このようなガイドラインの利点は、広告主とコンテンツ制作者の両方がVRビデオを構築することによって実現できます。これらも、IABがメンバーと協力して開発できるガイドラインです。
 
 ### ADVERTISER AND PUBLISHER LEARNINGS
-With regards to verticals finding the most traction in VR, respondents highlighted
-games, entertainment (especially movie promotions), automotive, tech, and
-fashion in particular. MediaVest’s Andrew Klein added that they haven’t found
-a vertical that doesn’t make sense for VR to tell a brand story. “We’ve had
-conversations for instance with our pharma accounts. You would think with all
-the disclosure requirements, that there might be an issue. But you can tell a very
-emotional story in VR and put people in the shoes of those who have symptoms
-and get people to understand.”
+VRで最大の牽引力を見せた業界では、ゲーム、エンターテインメント（特に映画のプロモーション）、自動車、技術、ファッションなどが特色でした。 MediaVestのAndrew Klein氏は、VRがブランドストーリーを伝えるのは意味をなさない垂直を見出していないと付け加えました。 「例えば、私たちは製薬勘定と会話しました。すべての開示要件について、問題があると思われます。しかし、あなたはVRで非常に感情的な話をして、症状を抱えている人々の靴に人々を入れて、人々に理解させることができます。
 
-While there have been too few cross-category campaigns run at this point to call
-out specific best practices for VR, we did ask our experts to share key learnings,
-particularly about ad and content user experiences. Everyone generally agreed that
-we need to be careful as an industry to not interrupt the VR consumer with jarring
-ad experiences that break focus. Some felt that non-skippable pre-roll ads might be
-a pretty horrible experience in VR, creating a feeling of entrapment. Others felt that
-post-roll formats might make more sense for VR, if there’s the right brand alignment
-and integration with content.
+現時点では、VRの具体的なベストプラクティスを呼び出すためのクロスカテゴリキャンペーンはほとんどありませんでしたが、私たちは専門家に、特に広告やコンテンツのユーザーエクスペリエンスに関する重要な学習を教えてもらいました。誰もが焦点を当てていない激しい広告体験でVRの消費者を中断させないように、業界としては慎重にする必要があることに全般に合意しました。スキップ不可能なプレロール広告は、VRでかなり恐ろしい経験になるかもしれないと感じた人もいます。他の人は、適切なブランドアライメントとコンテンツとの統合があれば、ポストロールフォーマットがVRにとってより意味をなさないと感じていました。
 
-Immersv CEO Mihir Shah added that data from the campaigns they’ve run thus far
-demonstrate that when the VR user experience is interrupted, engagement numbers
-drop. “If we put an advertiser in a queue, with a ‘Check this out’ call to action—
-within the user’s current VR experience, people simply hit the skip button, or they
-leave. You can’t just put things into a scene. A lot more work needs to be done to get
-the integration points right. It can be extremely jarring when you’re immersed in
-another world."
+ImmersvのCEO、Mihir Shahは、これまで実行してきたキャンペーンのデータは、VRユーザーエクスペリエンスが中断されたときに、エンゲージメント番号が減少することを示していると付け加えました。 「広告主を待ち行列に入れ、現在のVR体験の中で「チェックアウト」という行動を促すと、人々は単にスキップボタンを押すか、放置するだけです。物事を場面に入れることはできません。統合ポイントを正しく得るためには、さらに多くの作業が必要です。あなたが別の世界に没頭しているとき、それは非常に苦しいことがあります。
 
-At this point, much of the responsibility for proper ad placement lies with the app
-publishers who determine ad locations and formats. Given how little we know and
-how many tech hurdles there are in the medium, it’s almost a blessing that audiences
-are still small. However, with more distribution platforms coming online this fall, the
-pressure will be on to figure things out and get organized around guidelines. 
+この時点で、適切な広告を配置する責任の多くは、広告の場所とフォーマットを決定するアプリのサイト運営者にあります。われわれがどれだけ知っているか、メディアの中にどれほど多くの技術的ハードルがあるかを考えれば、ほとんどの観客がまだ小さいという祝福です。しかし、今秋にオンラインになるディストリビューションプラットフォームが増えるにつれて、物事を把握し、ガイドラインを体系化するという圧力がかかります。
 
 ## What do VR Experts Predict for the Next 24Months?
-Twenty-four months is an eternity in technological innovation. Despite the lean-in
-approach that we’re seeing towards VR, the future is still very much unknown, even
-across the next two years. Existing hurdles may fall, but new ones may arise. VR could
-scale faster than ever, or fade into flash-in-the-pan obscurity. That said, the predictions
-of those involved in VR today trend positively.
+24ヶ月は技術革新の永遠です。私たちがVRに向かって見ているリーンインのアプローチにもかかわらず、今後2年間でさえ未来はまだ不明です。既存のハードルは落ちるかもしれませんが、新しいものが発生する可能性があります。 VRのスケーラビリティはこれまで以上に速くなりました。それは、VRに関わる人たちの予測は、今日、肯定的に変化していると言いました。
 
-1. VR IS NOT GOING TO BE LIKE 3DTV
+VRは3DTVのようにならない
+「VRは3DTVのようになるとは決して考えません。それはすでにあまりにも進んでおり、主要プレーヤーのすべてから多額の投資を見ることができます」とニューヨークタイムズのVRチームのKelly Alfieri氏は言います。
 
-“I in no way think that VR is going to be like 3DTV. It’s already too far along and you see
-so much investment from all of the major players,” says Kelly Alfieri, from The New
-York Times’ VR Team.
-
-Echoing the trend towards investment in VR, a recent eMarketer report points to over $2.5
-billion in funding, acquisitions, and mergers for companies in the VR/AR and immersive
-media space since early 2014. The first half of 2016 alone saw $1.3 billion invested,
-including The Huffington Post’s acquisition of VR video production firm RYOT. With the
-entire ecosystem making investments in VR, the likelihood of failure seems much smaller.
+最近のeMarketerのレポートによると、VR / ARと没入型メディアの企業の資金調達、買収、合併は、2014年初頭から25億ドルを超えています.2016年前半だけで13億ドルの投資が見込まれ、 Huffington PostのVRビデオ制作会社RYOTの買収を含む。生態系全体がVRに投資することで、失敗の可能性ははるかに小さくなる。
 
 ![fig4.png](./img/iabvr/fig4.png)
 
-Other opinions were similar when discussing the high-level viability and potential
-success of VR. Immersv echoed the point that the VR constituency is so much broader
-than 3DTV. With the entire ecosystem making investments in VR, the likelihood of failure
-seems much smaller.
+他の意見は、高いレベルの実行可能性とVRの潜在的な成功を議論する際に同様でした。 Immersvは、VR構成員が3DTVよりもはるかに広いという点を反響しました。生態系全体がVRに投資することで、失敗の可能性ははるかに小さくなる。
 
-One expert was particularly bullish, saying, “Virtual Reality will change the world for
-all of us as individuals, and also for other industries and businesses. It will radically
-improve the way we access information, open up new experiences, and make things that
-we are doing today much more efficient.”
+ある専門家は、「バーチャルリアリティは、私たち全員が個人として、そして他の業界や企業にとっても世界を変えるでしょう。情報にアクセスする方法を大幅に改善し、新しい経験を開き、今日行うことをより効率的にする」と語った。
 
-Taken collectively, these high-level views of VR point to continued investment,
-development, and testing over the next two years. But what happens if we already
-assumed that? What do the players who have already resigned themselves to the inevitable
-success of VR think about the next 24 months? Most of their predictions seem to focus
-on the refinement of VR. It’s expected that 24 months from now, we’ll have a much better
-understanding of the four or five key use cases around how and why consumers will use
-VR, versus what they do on their phones, iPads, TVs, and everything else.
+集合的に言えば、これらのVRの高水準の見方は、今後2年間にわたり継続的な投資、開発、テストを指しています。しかし、すでにそれを仮定すればどうなりますか？ VRの必然的な成功に自ら辞任した選手は、今後24ヶ月について何を考えますか？彼らの予測のほとんどは、VRの洗練に焦点を当てているようです。今から24ヶ月後には、消費者がVRをどのように、またどのように使用するのか、携帯電話、iPad、テレビ、その他すべてのことについて、4つまたは5つの主要な使用事例をよりよく理解することが期待されます。
 
-Turner Sport’s Mark Johnson added, “It feels like every month we’re seeing something
-new, a different angle on it, a different company with a different technology. If the
-headset technology improves and makes it a better experience, then this medium may
-get there more quickly.”
+ターナー・スポーツのマーク・ジョンソン氏は、「毎月、新しい技術、異なる技術を持った別の企業など、新しい角度を見ているように感じています。ヘッドセット技術が向上し、より良い経験をするならば、この媒体はより速くそこに到達するかもしれません。
 
-2. CONSOLIDATION OF VR COMPANIES IS LIKELY
-Another factor that seems inevitable as VR scales is consolidation. “In 24 months you’ll
-see people taking a leadership role in terms of what the best practices are. I think there
-will be a short list of candidates,” says National Geographic’s Jim Kelleher.
+VR会社の統合は妥当であるVRのスケールとして避けられないもう一つの要因は統合です。 24カ月後には、ベストプラクティスが何であるかという点でリーダーシップを発揮しています。私は候補者の短いリストがあると思う」ナショナルジオグラフィックのJim Kelleherは言う。
+Live NationのKevin Chernett氏は、特に質の高いコンテンツを制作する多くのブティックプレイヤーの間で、統合が行われる可能性が高いことに同意します。さらに、この統合は本質的に品質を向上させ、VRの成熟した広告の生態系を成熟させると考えています。
 
-Kevin Chernett of Live Nation agrees that consolidation is likely to take place,
-especially among the many boutique players creating content that ranges in quality. He
-further believes that this consolidation will inherently improve quality and help the ad
-ecosystem in VR mature.
+デバイスの成果はコストを削減し、規模を拡大VRフォーマットの観点から、出版者、代理店、クリエイターは、成長軌道がコスト要因と規模に合致し、広告主のVRメディアエントリポイント。コスト障壁が下がり、堅牢で実証されたユースケースが出現するにつれ、技術的に複雑なVRフォーマットの方が成長率が上昇する可能性が高くなります。デバイス成熟は、コスト削減とより複雑なプラットフォームの魅力の大きな要因となりそうです。専門家の中には、VRに対する初期の関心が低下する可能性はあるものの、今後24ヶ月以内に更新されたデバイスがリリースされ、新たな関心を呼び起こすと考えている。新しいデバイスと拡張機能により、VR体験をさらに強化する追加のVRペリフェラルとアクセサリが提供される可能性があります。これらの更新により、消費者側と広告主側の両方で規模と導入率が向上する可能性があります。
 
-3. DEVICE MATURATION WILL REDUCE COSTS AND FACILITATE SCALE
-From a VR format perspective, publishers, agencies, and creators seem to agree that
-the growth trajectory will align with the cost drivers and scale, with 360 video expected
-to continue being the advertiser’s go-to VR medium and entry point. As cost barriers
-come down and robust, proven use-cases emerge, the more technologically intricate VR
-formats will likely see a bigger uptick in growth. Device maturation will likely be a big
-driver in cost reduction and the attractiveness of more complex platforms. Some of the
-experts believe that while initial interest in VR may subside, over the next 24 months
-updated devices will be released to drive renewed interest. With new devices and
-expanded capabilities comes the possibility of additional VR peripherals and accessories
-that further enhance the VR experience. These updates could increase scale and
-adoption rates on both the consumer and advertiser sides.
+VRのバリアントは、複数のコンテキストパットの間で共存する他の専門家は、VRのよりコンテキストに基づいた成長傾向を指摘しています。スマートフォンのようなより簡単なパーソナルデバイスでは、スポーツスポーツやエンターテイメントなど、より幅広く消費されるエクスペリエンスで十分ですが、最先端のテザリングVRプラットフォームは、迫力のある没入型ゲームやナラティブ体験に最適です。 AOLの "Shingy" Shingは、VRの感情的、文脈的、そして個人化された経験を成功の鍵としています。ビデオゲームではなく、アフリカへの旅行や、MLK、Jr.のような有名なスピーチに出席することが、実際に採用を推進しているかもしれません。
 
-4. VR VARIANTS WILL CO-EVOLVE ALONG MULTIPLE CONTEXTUAL PATHS
-Other experts point to a more context-driven growth trend in VR. Simpler personal
-devices like smartphones may suffice for more widely-consumed experiences
-like live sporting events or entertainment, while the most advanced tethered VR
-platforms may be best for intense and fully-immersive gaming and narrativedriven
-experiences. AOL’s “Shingy” Shing points to the emotional, contextual, and
-personalized experiences in VR as being the keys to success. Rather than video
-games, it could be that a trip to Africa, or attending a famous speech like that of
-MLK, Jr. might be what really drives adoption.
+「今は、ストーリーテリングは線形ですが、私が経験したことは、私が誰であるかに基づいていなければなりません」とShing氏は指摘する。彼は、視聴者の感情的反応に基づいてコンテンツが変わる可能性があり、技術は物語と能力であり、最終的には「自分の冒険を選ぶ」ことです。
 
-“Right now,” Shing points out, “the storytelling is linear, but what I experience should be
-based on who I am.” He adds that content could change based on the viewer’s emotional
-response, and that what may matter more than the device or technology is the story and
-the ability, ultimately, to “choose your own adventure.”
+私たちは広告機会の表面をちょっと荒らしています。VRがそのような新しいプラットフォームであるということは、相対的な面で見れば、潜在的な広告力が今探求されています。今後24か月間に、360社のビデオに関わるブランドが増えてくると回答者は考えています。他の形式の広告は、2Dデジタル広告掲示板、2Dビデオ、さらにはTVスポットのように、VRに表示することもできます。しかし、UnityのAgatha Bochenek氏は、VRが、モバイルが30秒のTVスポットを再利用したように広告を複製しない、新しい標準化された広告プラットフォームの機会を作り出すことを望んでいます。
+消費者とコンテンツ開発者が今後数年間にVRにどのようにアプローチするかにかかわらず、ブランドと広告のアプローチは同じ道をたどらないかもしれません。 VRは、モバイルのように予期しない方法で組織の変更を強制する可能性があります。
 
-5. WE ARE JUST SCRATCHING THE SURFACE OF ADVERTISING OPPORTUNITIES
-With VR being such a new platform in relative terms, potential advertising capabilities
-are just now being explored. Over the course of the next 24 months, respondents believe
-we’ll see more brands engaging in 360 video. Other forms of advertising can also appear
-in VR like 2D digital billboards, 2D video, and even TV spots. However, Agatha Bochenek at
-Unity hopes that VR creates the opportunity for a new standardized ad platform that doesn’t
-replicate advertising the way that mobile did with the repurposed 30-second TV spot.
-
-Regardless of how consumers and content developers approach VR over the next couple
-of years, the brand and advertising approach may not follow the same path. VR may force
-organizational change in unforeseen ways, just like mobile has.
-
-6. AUGMENTED REALITY DESERVES CONTINUED ATTENTION
-It’s nearly impossible to talk about Virtual Reality (VR) without also talking about
-Augmented Reality (AR). Some of the experts that we spoke with tend to view these
-terms as synonymous, others as derivations of each other, while still others view them
-as completely separate. In the most simplistic terms, in Virtual Reality you’re immersed
-in a world that does not exist, whereas with Augmented Reality, the viewer sees actual
-reality, but with virtual components superimposed. Pokémon GO is a great example
-of Augmented Reality because when you’re playing the game, you’re able to see the
-Pokémon on your screen in the natural setting of what’s in front of you.
-
-When discussing the future of VR, a number of respondents mentioned the potential for
-VR’s increased convergence with AR, which may prove to have more utility for everyday
-life. Given Pokémon GO’s tremendous success as a game and pop culture phenomenon,
-it’s safe to say that while the line between AR and VR may be blurry, AR certainly
-deserves its own future study.
+強調されたリアリティの崩壊は継続しています。バーチャルリアリティ（AR）について話すことなく、バーチャルリアリティ（VR）について話すことはほとんど不可能です。私たちが話したエキスパートの中には、これらの用語を同義語と見なす傾向があり、他のものは互いに派生していると見なす傾向があります。もっとも単純な言い方をすれば、バーチャルリアリティでは、存在しない世界に没頭しているのに対し、拡張現実感では、視聴者は実際のリアリティを見ることができますが、仮想コンポーネントは重ねて表示されます。ポケモンは、あなたがゲームをプレイしているときに、あなたの目の前にあるものの自然な設定であなたの画面上のポケモンを見ることができるので、拡張現実の素晴らしい例です。
+VRの未来について話し合うとき、多くの回答者は、VRがARとのコンバージェンスを増やす可能性について言及しました。これは、日々の生活にとってより有用性があると分かります。ゲームとポップカルチャーの現象としてポケモンGOが大成功を収めたことを考えると、ARとVRの境界線がぼやけているかもしれないが、ARは確かにそれ自身の将来の研究に値すると言えるだろう。
 
 ![fig5.png](./img/iabvr/fig5.png)
 
 ## APPENDIX1: Case Studies
-What do VR campaigns look like today? Of course, a 2D report like this can never do
-justice to the visuals of a 3D ad, but we’ve gathered a handful of examples and invite
-our readers to follow the links below, preferably on a mobile device and with a VR
-headset, to get a sense what VR / 360 video ads look like.
+VRキャンペーンは今日どのように見えますか？ もちろん、このような2Dレポートは、3D広告のビジュアルを決して正当化することはできませんが、いくつかの例を集め、以下のリンクをフォローしてください。モバイルデバイスやVRヘッドセット、 どのようなVR / 360動画広告のように見えるかを知ることができます。
 
-Case Study #1: Dunkin Donuts “What the Fast” #WTFast, 360 video campaign
-(DigitasLBi)
-ddperks.com/wtfast
+ケーススタディ＃1：Dunkin Donuts「What the Fast」#WTFast、360ビデオキャンペーン（DigitasLBi）ddperks.com/wtfast
+
 ![fig6.png](./img/iabvr/fig6.png)
 
-To promote the world’s fastest “Dunkin Run,” a 360 video of female stunt jumper
-Ellen Brennan (shown above in a wingsuit) was created to immerse viewers in a
-mid-air pickup of Dunkin Donuts coffee. DigitasLBi’s SVP and Group Media Director
-Megan McCurry, whose agency worked with Dunkin on the campaign, described the
-strength of this and other 360 and VR ads in terms of immersion, and how she sees
-measurement and metrics evolving in the future. “We all know how hard it is to capture
-someone’s attention. This is a novel way to engage with people on a more immersive
-basis. The bulk of what we’ve done to date has been in the 360 video realm versus
-completely interactive concepts with headsets, and that’s really because of the scale
-issues. Metrics-wise, we measure downloads and engagement today, but it will move
-towards more eye-tracking and brand lift studies in the future. We’ll be looking to
-understand the variance of VR versus 360 video versus regular video, so that we can
-start to get a sense of not only how many people reached and the experience time, but
-also how impactful it was relative to other tactics.”
+世界最速の「Dunkin Run」をプロモートするために、Dunkin Donutsコーヒーの空中ピックアップに視聴者を浸漬するために、女性スタントジャンパーのEllen Brennan（ウィングスーツの上に示されている）の360ビデオが作成されました。 DigitasLBiのSVPおよびグループメディアディレクターであるMegan McCurry（キャンペーンのDunkinと協力していた）は、浸水の点でのこの広告やその他の360広告とVR広告の強み、将来測定と測定基準がどのように変化するかを説明しました。 「誰かの注意を引くのがどれほど難しいかわかっている。これは、より没入型の方法で人々と交流するための斬新な方法です。これまでに行ってきたことの大部分は、360度のビデオ領域とヘッドセットとの完全なインタラクティブなコンセプトにありました。これは本当に規模の問題によるものです。測定基準に基づいて、今日のダウンロードとエンゲージメントを測定しますが、将来的にはより多くのアイトラッキングとブランドリフトの研究に移行します。私たちは、360人のビデオ対360人のビデオの違いを理解しようとしています。その結果、人数に達した人数と経験時間だけでなく、他の戦術に比べてどれほどインパクトがあるかを知ることができます。 "
 
-Case Study #2: Fruity Pebbles “Yabba Dabba Doo” 30-second 360 pre-roll
-(MediaVest | Spark, StartApp, VirtualSKY)
-https://youtu.be/cuCGu_UMN5g 
+ケーススタディ＃2：フルーティーペブルズ「Yabba Dabba Doo」30秒360プリロール（MediaVest | Spark、StartApp、VirtualSKY）https://youtu.be/cuCGu_UMN5g"
 
 ![fig7.png](./img/iabvr/fig7.png)
 
-Post Cereals’ “Yabba Dabba Doo” campaign starts with a 360 view of kids at the
-breakfast table, and takes the viewer on a 30-second journey to jam with a garage band,
-throwing balloons and splashing paint on a mural. MediaVest | Spark’s Andrew Klein
-worked with VR app marketing firms StartApp and VirtualSKY to promote the in-app ad
-to audiences of selected mobile apps that have their ad SDKs installed. When the user
-opens the app, they’re instructed to put on a VR headset before they view the ad.
+Post Cerealsの「Yabba Dabba Doo」キャンペーンは、朝食のテーブルで子供たちを360度見てキャンペーンを開始し、ガレージバンドで詰まって風船を投げ、壁画に塗料をはりつける30秒間の旅で視聴者を捉えます。 MediaVest | SparkのAndrew Kleinは、VRアプリマーケティング会社のStartAppとVirtualSKYと協力して、広告SDKがインストールされている特定のモバイルアプリの視聴者にアプリ内広告を宣伝しました。ユーザーがアプリを開くと、広告を表示する前にVRヘッドセットを装着するように指示されます。
 
-Klein described the process of qualifying a client’s goals for a VR campaign: “We’ve
-been finding that for clients that want real immersion, in-app VR distribution is the
-way to go. It’s similar to display pre-roll, except we’re looking to have people already
-in the headset, fully immersed and ready to accept a 360 experience.” The ads are
-viewer-friendly. There is the option to tab out and skip the ad if they wish and go right to
-content. “VR is a very new space, but it’s a very special place, too. We don’t want to be
-throwing banner units and pop-ups into immersive VR experiences. It’s not what we—
-or, I think, any of us—want to do.”
+Klein氏は、VRキャンペーンのクライアントの目標を認定するプロセスについて説明しました。「実際の浸漬を望むクライアントにとっては、アプリ内のVR配布が必要です。これは、ディスプレイのプレロールと似ていますが、すでにヘッドセットに人がいて、完全に没頭して360度の体験を受け入れる準備ができていることを除いては違います。必要に応じてタブアウトして広告をスキップし、コンテンツを表示するオプションがあります。 「VRは非常に新しい空間ですが、それは非常に特別な場所です。我々は、没入型のVR体験にバナーユニットやポップアップを投げたくはありません。私たちがやっていることではなく、私たちがやりたいことでもない」
 
-StartApps’ Director of VR, Ariel Shimoni, added, “We worked with a few handpicked
-publishers to integrate the Pebbles ad in a way that doesn’t interfere with the VR
-content, but enhances it. Those publishers were thrilled to work with a national
-brand like Post Cereals, and to start exploring the possibilities of real, sustainable
-monetization in VR.”
+StartAppsのVR Director、Ariel Shimoniは次のように述べています。「私たちは少数の出版社と協力して、VRコンテンツに干渉しないようにPebbles広告を統合しましたが、それを強化しました。これらの出版社は、Post Cerealsのような全国的なブランドで働き、VRで本当の持続可能な収益化の可能性を模索することに興奮していました。
 
-Case Study #3: Hilton Worldwide “Destination: Inspiration”
-(Opera Mediaworks, OMD)
-https://vimeo.com/162983050 
+ケーススタディ＃3：ヒルトン・ワールドワイド「デスティネーション：インスピレーション」（Opera Mediaworks、OMD）https://vimeo.com/162983050
 
 ![fig8.png](./img/iabvr/fig8.png)
 
-Hilton Hotels and Resorts partnered with Opera Mediaworks on a 360 mobile video
-campaign that takes viewers on a tour of Hilton destination beach resorts, snorkeling
-through sea caves, walking through jungles, and looking out across pristine beaches
-from the balcony of a guest room. Users can tilt their mobile device to see the entire
-environment. The assets are designed to entice users to take action, book a reservation,
-or learn more details.
+ヒルトンホテルズ＆リゾーツは、ヒルトンデスティネーションのビーチリゾートのツアー、海の洞穴からのシュノーケリング、ジャングルの散策、ゲストルームのバルコニーからの素朴なビーチを見渡す360モバイルビデオキャンペーンで、Opera Mediaworksと提携しました。ユーザーはモバイルデバイスを傾けて、環境全体を見ることができます。この資産は、ユーザーが行動を取ったり、予約を予約したり、詳細を知るように設計されています。
 
-Opera Mediaworks VP of Marketing, Molly Moriarty, shared some of their team’s
-learnings in terms of in-app VR ad user experiences. “Ideally, you want to launch the
-360 experience within a full-screen unit. The user could feel lost if you just jump right
-into a 360 video ad experience, so we’ve found that a short lead-in can be helpful.
+Opera Mediaworksのマーケティング担当副社長、Molly Moriartyは、アプリ内VR広告のユーザーエクスペリエンスに関してチームの学習内容の一部を共有しました。 「理想的には、全画面ユニット内で360回のエクスペリエンスを開始したいと考えています。あなたが360ビデオ広告の経験にちょうど乗っていれば、ユーザーは迷ってしまうかもしれません。そのため、短いリードインが役立つことがわかりました。
 
-Having a user-initiated opt-in path creates less friction towards full immersion. There
-are so many different format options; for video experiences to work well, you really
-need to have to have the right user-centric approach. If we can get advertisers to start
-utilizing 360 assets more often, I think that will help to segue into more immersive VR
-in the future.”
+ユーザーが開始したオプトインパスを使用すると、完全な浸漬に対して摩擦が少なくなります。非常に多くの異なるフォーマットオプションがあります。ビデオエクスペリエンスがうまくいくためには、ユーザー中心の正しいアプローチが本当に必要です。広告主が360資産をより頻繁に利用し始めるようにすることができれば、将来的にはより没入型のVRに移行するのに役立つと思います」
 
-Case Study #4: Turner Sports NCAA® March Madness® Live™ VR App
-Sponsored by Capital One
+ケーススタディ＃4：Turner SportsNCAA®MarchMadness®Live™VRアプリケーションスポンサー提供：Capital On
 
 ![fig9.png](./img/iabvr/fig9.png)
 
-Managed by Turner Sports and produced in collaboration with live-event virtual reality
-(VR) platform VOKE through a partnership with CBS, NCAA Corporate Champion Capital
-One, and Oculus, the March Madness VR app provides live game coverage of the NCAA
+CBS、NCAAコーポレートチャンピオンのキャピタルワン、オクルスとのパートナーシップを通じて、ライブイベントバーチャルリアリティ（VR）プラットフォームVOKEと協力して製作されたTurner Sportsによって運営されているMarch Madness VRアプリケーションは、NCAA
 
-Final Four Semifinals and National Championship. The live stream—available via a
-Virtual Reality version of the NCAA March Madness Live app in the Oculus Store—allows
-fans to follow the live game while using the Samsung Gear VR-powered headset.
+最終4回準決勝と国内選手権。 ライブストリームは、Oculus StoreのNCAA March Madness LiveアプリのVirtual Realityバージョンを介して入手可能で、ファンはSamsung Gear VRパワーヘッドセットを使用しながらライブゲームに従うことができます。
 
-Describing the Capital One partnership and in-app branding, Turner’s Mark Johnson
-said: “We put Capital One’s branding on the app loading screen as well as the main
-menu, which gave fans access to live games, on-demand content, and the Final Four
-bracket. In the live game streams, we included a virtual scoreboard with Capital One
-branding on that as well. The scoreboard was a great example of sponsor integration,
-and shows off one of the unique opportunities in the VR product world.”
+Capital Oneのパートナーシップとアプリ内ブランドについて説明すると、Turnerのマーク・ジョンソン氏は次のように述べています。「Capital Oneのブランディングをアプリの読み込み画面に加え、メインメニューでもファンにライブゲーム、オンデマンドコンテンツ、 4つのブラケット。 ライブゲームのストリームでは、それにCapital Oneブランドのバーチャルスコアボードが含まれていました。 スコアボードはスポンサーとの統合の素晴らしい例であり、VR製品の世界でユニークな機会を披露しました。
 
 ## APPENDIX2: Credits
-Interview Subjects
-IAB would like to extend our sincere thanks and profound gratitude to all of the industry
-experts listed below who graciously gave of their valuable time to share their thoughts on
-the current state of Virtual Reality.
+インタビュー科目IABは、現実のバーチャルリアリティの考え方を分かち合う貴重な時間を惜しみなく与えてくれた、下記の業界専門家全員に深い感謝と深い感謝を捧げたいと思います。
 
 ABC, Jeffrey Weinstock, VP, Creative Director, Integrated Marketing
 Accenture, Adam Nagus, Global Visual Analytics Lead
